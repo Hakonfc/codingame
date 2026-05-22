@@ -1,2 +1,2 @@
-# codingame
-My solutions to Codingame puzzles
+# Codingame
+My solutions to [Codingame](https://www.codingame.com/home) puzzles
